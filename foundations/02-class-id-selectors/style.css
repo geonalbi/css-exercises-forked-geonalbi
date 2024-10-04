@@ -1,0 +1,21 @@
+
+.odd {
+    background-color: rgb(222, 126, 123);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.biggie {
+    font-size: 24px;
+}
+
+#notwo {
+    font-size: 36px;
+    color: #002aff
+}
+
+#nofour {
+    background-color: hsl(110, 67%, 69%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
